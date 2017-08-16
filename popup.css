@@ -1,0 +1,19 @@
+body {
+	min-width:120px;
+	/*min-height:150px;*/
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin: 0, 15px;
+    /*background-color: green;*/
+}
+
+ul li:hover {
+    cursor: pointer;
+}
